@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Onbaording",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Ambiente de Dev",
             "pages": [
               "essentials/markdown",
               "essentials/code",
