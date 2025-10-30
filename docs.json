@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Handbook de Tech",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -71,12 +71,22 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "BeGrowth",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
+          "anchor": "Assiny",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
+        },
+        {
+          "anchor": "One Control",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
+        },
+        {
+          "anchor": "UTUA",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
         }
